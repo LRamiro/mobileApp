@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MobileApp</string>
+    <string name="SearchButton">Buscar</string>
+    <string name="HintTextSearchField">Enter the object to search..</string>
+
+    <!-- Activities names -->
+    <string name="SearchProductsActivity">Search Product</string>
+    <string name="ResultSearchActivity">Result</string>
+    <string name="ProductDetailsActivity">Product</string>
+
+    <!-- AlertDialog Titles and Messages -->
+    <string name="SearchProductsActivityTitle">Results not found</string>
+    <string name="SearchProductsActivityMessage">Please, review the data entered</string>
+    <string name="InitialActivityTittle">Wrong data entered</string>
+    <string name="InitialActivityMessage">You must enter a text to start the search</string>
+
+</resources>
